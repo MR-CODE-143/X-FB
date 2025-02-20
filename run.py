@@ -1,2 +1,3 @@
 import XFB
-XFB.MAIN()
+from XFB import XFBMAINPOINT
+XFBMAINPOINT().MAIN()
