@@ -1,3 +1,0 @@
-import XFB
-from XFB import XFBMAINPOINT
-XFBMAINPOINT().MAIN()
