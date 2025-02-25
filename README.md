@@ -1,5 +1,5 @@
 <img 
-src="https://github.com/MR-CODE-143/X-FB/blob/main/file-GeCbScUJqVZ5aeajh6dvh2NS.webp" width="200" alt="">
+src="https://github.com/MR-CODE-143/X-FB/blob/main/file-GeCbScUJqVZ5aeajh6dvh2NS.webp" width="280" alt="">
 
 ```bash
 rm -rf X-FB
